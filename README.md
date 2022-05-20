@@ -14,4 +14,4 @@ Profile on LeetCode: [fartem](https://leetcode.com/fartem).
 
 | Name | Link to LeetCode | Link to solution |
 | --- | --- | --- |
-| Duplicate Emails | [Link](https://leetcode.com/problems/duplicate-emails) | [Link](./easy/duplicate_emails.sql) |
+| Duplicate Emails | [Link](https://leetcode.com/problems/duplicate-emails/) | [Link](./easy/duplicate_emails.sql) |
