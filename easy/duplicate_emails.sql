@@ -1,4 +1,4 @@
-/* https://leetcode.com/problems/duplicate-emails */
+/* https://leetcode.com/problems/duplicate-emails/ */
 select Email
 from Person
 group by Email
