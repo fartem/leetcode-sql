@@ -2,7 +2,7 @@
 
 ## About
 
-Some solved problems from leetcode.com on SQL.
+Some solved problems from [LeetCode](leetcode.com) on SQL.
 
 ## Links
 
