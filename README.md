@@ -16,3 +16,4 @@ Profile on LeetCode: [fartem](https://leetcode.com/fartem).
 |---------------------------------------|------------------------------------------------------------------------|----------------------------------------------------|
 | 182. Duplicate Emails                 | [Link](https://leetcode.com/problems/duplicate-emails/)                | [Link](./easy/duplicate_emails.sql)                |
 | 1757. Recyclable and Low Fat Products | [Link](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [Link](./easy/recyclable_and_low_fat_products.sql) |
+| 1795. Rearrange Products Table        | [Link](https://leetcode.com/problems/rearrange-products-table/)        | [Link](./easy/rearrange_products_table.sql)        |
