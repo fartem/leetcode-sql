@@ -3,7 +3,7 @@ on: pull_request
 
 jobs:
   sqlcheck:
-    name: sqlcheck job
+    name: sqlcheck
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
@@ -12,3 +12,5 @@ jobs:
           risk-level: 3
           verbose: true
           token: ${{ secrets.GITHUB_TOKEN }}
+          postfixes: sql
+          directories: easy | medium | hard
