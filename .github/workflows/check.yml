@@ -12,5 +12,7 @@ jobs:
           risk-level: 3
           verbose: true
           token: ${{ secrets.GITHUB_TOKEN }}
-          postfixes: sql
-          directories: easy | medium | hard
+          directories: |
+            easy
+            medium
+            hard
