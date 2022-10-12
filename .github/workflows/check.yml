@@ -1,0 +1,23 @@
+name: SQL check
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  sqlcheck:
+    name: sqlcheck
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: yokawasa/action-sqlcheck@v1.4.0
+        with:
+          risk-level: 3
+          verbose: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          directories: |
+            easy
+            medium
+            hard
