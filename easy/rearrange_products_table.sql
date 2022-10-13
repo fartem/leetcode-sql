@@ -9,4 +9,4 @@ where store2 is not null
 union
 select product_id, 'store3' as store, store3 as price
 from Products
-where store3 is not null
+where store3 is not null;
