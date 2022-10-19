@@ -14,6 +14,7 @@ Profile on LeetCode: [fartem](https://leetcode.com/fartem).
 
 | Name                                                           | Link to LeetCode                                                                                | Link to solution                                                            |
 |----------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| 175. Combine Two Tables                                        | [Link](https://leetcode.com/problems/combine-two-tables/)                                       | [Link](./easy/combine_two_tables.sql)                                       |
 | 182. Duplicate Emails                                          | [Link](https://leetcode.com/problems/duplicate-emails/)                                         | [Link](./easy/duplicate_emails.sql)                                         |
 | 183. Customers Who Never Order                                 | [Link](https://leetcode.com/problems/customers-who-never-order/)                                | [Link](./easy/customers_who_never_order.sql)                                |
 | 196. Delete Duplicate Emails                                   | [Link](https://leetcode.com/problems/delete-duplicate-emails/)                                  | [Link](./easy/delete_duplicate_emails.sql)                                  |
